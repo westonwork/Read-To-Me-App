@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Logo Picture  */
+.logo-horizontal {
+    width: 400px;
+    height:100px;
+    object-fit: cover;
+}
+
+.logo-vertical {
+    width: 600px;
+    height:400px;
+    object-fit: cover;
+}
+
+/* Home.HTML, Index.html */
+
+.btn-logo-orange {
+    background-color: rgb(223, 93, 55);
+    color: white;
+    padding: 10px 20px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.btn-logo-yellow {
+    background-color: rgb(238, 176, 77);
+    color: white;
+    padding: 10px 20px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.btn-recording {
+    padding: 10px 40px;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+.font-14 {
+    font-size: 14pt;
+}
+
+.width-60 {
+    width: 60%
+}
+
+/* Read.HTML & Login.HTML*/
+
+.bkg-orange {
+    background-color: rgb(223, 93, 55);
+    color: white;
+}
+
+.bkg-yellow {
+    background-color: rgb(238, 176, 77);
+    color: white;
+}
+
+.text-orange {
+    color: rgb(223, 93, 55);
+}
+
+.text-yellow {
+    color: rgb(238, 176, 77);
+}
+
+.marg-10 {
+    margin-right: 10px;
+}
+
+.marg-20  {
+    margin-right: 20px;
+}
+
+.margin-page {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+/* 
+Future Features: 
+1. Have option for OpenDyslexic Font choice for website content
+2. Have the ability to change the font size to make it easier to read. 
+*/
