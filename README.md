@@ -1,8 +1,8 @@
-#### Read To Me App
+## Read To Me App
 
 A reading fluency website for school-aged children to record video and audio of themselves reading text passages to increase their reading fluency, built using Python, Flask, MySQL, & APIs.
 
-## Goals: 
+#### Goals: 
 
 As a former elementary teacher specializing in reading and ESOL, I designed this app with 3 goals in mind: 
 
@@ -13,16 +13,16 @@ As a former elementary teacher specializing in reading and ESOL, I designed this
   Why Fluency? Currently, there are many apps that promote reading and overall literacy for children, but one of the major areas of literacy: fluency, is often ignored by those very apps and products. Fluency focuses on the enunciation, pronunication, and prosody (speed) with which a child reads a text. 
 
 
-## Implementation: 
+#### Implementation: 
 
   - Implemented MediaCapture API, MediaRecorder API, and Streams API for video and audio recording and playback. 
   - Designed database using MySQL to ensure only registered and logged in users have access to recording features.
   - Conceptualized project using Trello and followed the Agile Development Process to create an MVP to go live with. 
   - Researched WCAG 2.0 accessibility standards to assist struggling readers in easily navigating the user interface.
 
-## Biggest Hurdle: 
+#### Biggest Hurdle: 
     My initial goal for the app included adding in an api for pronunciation that would score the child's audio recording. It would require storing the recording, limiting the length of the recording, providing the passages to the AI prior to the child's selection of the passage, and then prividing the scoring. This feature is still being researched, but I was able to implement instead the ability to screen record and audio capture which also gave teh child the ability to watch themselves reading vs only hearing their audio. 
 
-## Timeline & Role: 
+#### Timeline & Role: 
   - 1 week to wireframe and create MVP during the Python Stack of my coursework at Coding Dojo full-time software development program. 
   - This was a solo, personal project, where I was the Full-Stack Developer. 
