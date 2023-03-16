@@ -6,11 +6,11 @@ A reading fluency website for school-aged children to record video and audio of 
 
 As a former elementary teacher specializing in reading and ESOL, I designed this app with 3 goals in mind: 
 
-  1. Student Centric: It is standard for schools to assign children 20 minutes of reading homework each night. Most children do not have a parent who can read or assist them in their reading during that 20 minutes. I wanted to build an app that put the power of partner reading in the hands of the child: reading and listening to themselves.
-  2. Fluency Focused: I wanted the app to focus on reading fluency: an aspect of literacy often overlooked in traditional reading apps and standardized reading curriculum. This app promotes fluency y allowing the student to record their audio and video ... and then play it back to be able to self-assess their fluency and make self-directed adjustments in a low-stakes environment.
-  3. Easy Navigation: I wanted the app to be easy to navigate since it's designed for children who need additional reading help such as those with dyslexia, ELLs, below grade level readers, and more! 
+  1. Student Centric: It is standard for schools to assign students 20 minutes of reading homework each night. Most students do not have a parent who can read or assist them in their reading during that 20 minutes. I wanted to build an app that put the power of partner reading in the hands of the student: reading and listening to themselves.
+  2. Fluency Focused: I wanted the app to focus on reading fluency: an aspect of literacy often overlooked in traditional reading apps and standardized reading curriculum. This app promotes fluency allowing the student to record their audio and video ... and then play it back to be able to self-assess their fluency and make self-directed adjustments in a low-stakes environment.
+  3. Easy Navigation: I wanted the app to be easy to navigate since it's designed for students who need additional reading help such as those with Dyslexia, English Language Learners (ELLs), below grade level readers, and more! 
 
-  Why Fluency? Currently, there are many apps that promote reading and overall literacy for children, but one of the major areas of literacy: fluency, is often ignored by those very apps and products. Fluency focuses on the enunciation, pronunication, and prosody (speed) with which a child reads a text. 
+  Why Fluency? In my research prior to wireframing this app, I found there were many apps that promote reading and overall literacy for children, but one of the major areas of literacy: fluency, was ignored. Fluency focuses on the enunciation, pronunication, and prosody (i.e. speed) with which someone reads a text. 
 
 
 #### Implementation: 
