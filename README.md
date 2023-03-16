@@ -22,8 +22,8 @@ As a former elementary teacher specializing in reading and ESOL, I designed this
 
 #### Biggest Hurdle: 
 
-  My initial goal for the app included adding in an api for pronunciation that would score the child's audio recording. It would require storing the recording, limiting the length of the recording, providing the passages to the AI prior to the child's selection of the passage, and then prividing the scoring. This feature is still being researched, but I was able to implement instead the ability to screen record and audio capture which also gave teh child the ability to watch themselves reading vs only hearing their audio. 
+  My initial goal for the app included adding in an API for pronunciation that would score the child's audio recording. It would require storing the recording, limiting the length of the recording, providing the passages to the API's AI prior to the child's selection of the passage, and then reporting the scoring. This feature is still being researched, but in the meantime, I was able to implement APIs that allow screen recording and audio capture which has the benefit of giving the child the ability to watch themselves reading vs only hearing their audio. 
 
 #### Timeline & Role: 
-  - 1 week to wireframe and create MVP during the Python Stack of my coursework at Coding Dojo full-time software development program. 
+  - One week to come up with idea, wireframe it, and create MVP during the Python Stack of my coursework at Coding Dojo full-time software development program. 
   - This was a solo, personal project, where I was the Full-Stack Developer. 
