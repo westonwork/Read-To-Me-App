@@ -21,7 +21,8 @@ As a former elementary teacher specializing in reading and ESOL, I designed this
   - Researched WCAG 2.0 accessibility standards to assist struggling readers in easily navigating the user interface.
 
 #### Biggest Hurdle: 
-    My initial goal for the app included adding in an api for pronunciation that would score the child's audio recording. It would require storing the recording, limiting the length of the recording, providing the passages to the AI prior to the child's selection of the passage, and then prividing the scoring. This feature is still being researched, but I was able to implement instead the ability to screen record and audio capture which also gave teh child the ability to watch themselves reading vs only hearing their audio. 
+
+  My initial goal for the app included adding in an api for pronunciation that would score the child's audio recording. It would require storing the recording, limiting the length of the recording, providing the passages to the AI prior to the child's selection of the passage, and then prividing the scoring. This feature is still being researched, but I was able to implement instead the ability to screen record and audio capture which also gave teh child the ability to watch themselves reading vs only hearing their audio. 
 
 #### Timeline & Role: 
   - 1 week to wireframe and create MVP during the Python Stack of my coursework at Coding Dojo full-time software development program. 
