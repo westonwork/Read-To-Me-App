@@ -19,7 +19,8 @@
 /* Home.HTML, Index.html */
 
 .bkg-yellow-gradient {
-    background-image: url('yellow-gradient.jpg');
+    /* background-color: yellow; */
+    background-image: url('/img/yellow-gradient.jpg');
     background-repeat: repeat;
     background-size: cover;
 }
