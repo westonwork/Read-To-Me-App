@@ -19,10 +19,10 @@
 /* Home.HTML, Index.html */
 
 .bkg-yellow-gradient {
-    /* background-color: yellow; */
-    background-image: url('/img/yellow-gradient.jpg');
-    background-repeat: repeat;
-    background-size: cover;
+    margin: 5%;
+    background-color: blanchedalmond;
+    border-radius: 10%;
+    border: 5px solid orangered;
 }
 
 .btn-logo-orange {
