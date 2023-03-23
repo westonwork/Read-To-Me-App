@@ -44,6 +44,10 @@
     height: 300px;
 }
 
+.img-200 {
+    height: 100px;
+}
+
 .btn-logo-orange {
     background-color: rgb(223, 93, 55);
     color: white;
