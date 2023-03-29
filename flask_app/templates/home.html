@@ -15,9 +15,9 @@
     <!-- <img src="{{ url_for('static', filename='img_logo_horizontal.png') }}"> -->
     <title>Home Page</title>
 </head>
-<body>
-    <div class="d-flex justify-content-between align-items-center marg-20">
-        <img src="/static/img/logoH.png" alt="Read To Me Logo" class="logo-horizontal">
+<body class="bkg">
+    <div class="plain-bkg d-flex justify-content-between align-items-center marg-20">
+        <img src="/static/img/logoH-nobg.png" alt="Read To Me Logo" class="logo-horizontal">
         <a class="btn btn-logo-orange" href="/users/logout">Logout, {{logged_user.first_name}}</a>
     </div>
     <h1 style="text-align:center">Hi {{logged_user.first_name}}! What do you want to do?</h1>
